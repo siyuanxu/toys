@@ -94,17 +94,17 @@ class weather(object):
         预警信息 # alarm
         '''
         self.to_write = '''
-- {0}
+### {0}
 
-    今日温度 {1}
+今日温度 {1}
 
-    ![rtwpic]({5})
+![rtwpic]({5})
 
-    {2}
+{2}
 
-    {3}
+{3}
 
-    预警信息 -- {4}
+预警信息 -- {4}
     '''.format(self.city,
                self.allday,
                self.rt_weather,
