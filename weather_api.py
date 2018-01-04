@@ -13,6 +13,7 @@ class weather(object):
         self.config = config
         self.get_weather()
         self.ana_weather()
+        self.to_str()
 
     def get_weather(self):
         showapi_appid = self.config['showapi_appid']
@@ -73,7 +74,10 @@ class weather(object):
         self.rt_weather = now_human
         self.rt_weather_pic = now_weather_pic
 
-        self.alarm = main_data['alarmList'][0]['issueContent']
+        if len(main_data['alarmList']) > 0:
+            self.alarm = main_data['alarmList'][0]['issueContent']
+        else:
+            self.alarm = '又是平静的一天'
 
         f1 = main_data['f1']
         day_temp = f1['day_air_temperature']
@@ -81,22 +85,34 @@ class weather(object):
         self.allday = '{0}度 到 {1}度'.format(
             day_temp, night_temp)
 
+    def to_str(self):
+        ''' should looks like
+        江苏南京 # city
+        温度 # allday
+        实时天气 #
+        空气质量 # rt_weather
+        预警信息 # alarm
+        '''
+        self.to_write = '''
+- {0}
+    今日温度 {1}
+    ![rtwpic]({5})
+    {2}
+    {3}
+    预警信息 -- {4}
+    '''.format(self.city,
+               self.allday,
+               self.rt_weather,
+               self.air,
+               self.alarm,
+               self.rt_weather_pic)
+
     def output(self):
-        print(self.city)
         print(self.date)
-        print(self.allday)
-        print(self.air)
-        print(self.rt_weather)
-        print(self.alarm)
-
-    # def to_md(self):
-    #     to_write = '''
-
-    #     '''
-    #     with open('weather.md', 'w') as f:
-    #         f.write(str())
-
+        print(self.to_write)
 
 if __name__ == '__main__':
     config = yaml.load(open('config.yaml'))
-    weather('南京', config).output()
+    area1 = weather('南京', config).to_write
+    area2 = weather('漯河', config).to_write
+    area3 = weather('泸州', config).to_write
