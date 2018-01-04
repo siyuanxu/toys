@@ -95,10 +95,15 @@ class weather(object):
         '''
         self.to_write = '''
 - {0}
+
     今日温度 {1}
+
     ![rtwpic]({5})
+
     {2}
+
     {3}
+
     预警信息 -- {4}
     '''.format(self.city,
                self.allday,
