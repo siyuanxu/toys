@@ -2,7 +2,7 @@
 from weather_api import weather
 import yaml
 
-with open('index.md', 'w') as index:
+with open('index.md', 'w','utf-8') as index:
     config = yaml.load(open('config.yaml'))
 
     weather_main=weather('南京', config)
