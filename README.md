@@ -34,7 +34,7 @@ IP地址 https://www.juhe.cn/docs/api/id/1
 
 ## Toy 1
 
-本地天气，在这里我用到了易源数据的天气 api，由于是静态网页无法交互，所以我使用的是固定地址的天气信息查询，请求方式是 get，返回数据为 json。源码为[weather-api.py](weather-api.py) 。
+本地天气，在这里我用到了易源数据的天气 api，由于是静态网页无法交互，所以我使用的是固定地址的天气信息查询，请求方式是 get，返回数据为 json。源码为[api.py](api.py) 中的 weather class。
 
 结果以字符串格式返回，需要使用 json.loads() 函数整理为字典，就可以使用键值调用了。为了便于使用，将查询天气过程封装为对象。思路如下：
 
@@ -59,3 +59,6 @@ class weather
 ~~~
 
 一般 api 调用都会用到类似于个人 key 的参数，可以把需要用到的 key 写成一个 yaml 文件，通过 yaml load 的方式取用。
+
+## 通过 crontab 自动更新 index
+
