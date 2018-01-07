@@ -116,8 +116,36 @@ class weather(object):
         print(self.date)
         print(self.to_write)
 
+
+class fund(object):
+    """重仓股基金 www.juhe.cn"""
+
+    def __init__(self, config):
+        super(fund, self).__init__()
+        self.config = config
+        self.get_fund()
+
+    def get_fund(self):
+        key = self.config['juhe_appkey']
+        url = "http://web.juhe.cn:8080/fund/zcgjj/"
+        send_data = parse.urlencode([
+            ('key', key)
+        ])
+        req = request.Request(url)
+        try:
+            response = request.urlopen(
+                req, data=send_data.encode('utf-8'), timeout=10)
+        except Exception as e:
+            print(e)
+        self.result = json.loads(response.read().decode('utf-8'))['result'][0]
+
+    def test(self):
+        print(len(self.result))
+        lenth = len(self.result)
+        for i in range(1, lenth):
+            stock = self.result['{0}'.format(i)]
+            print(stock['accrate'])
+
 if __name__ == '__main__':
     config = yaml.load(open('config.yaml'))
-    area1 = weather('南京', config).to_write
-    area2 = weather('漯河', config).to_write
-    area3 = weather('泸州', config).to_write
+    fund_ = fund(config).test()
