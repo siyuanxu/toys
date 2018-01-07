@@ -2,6 +2,7 @@
 from api import weather
 import yaml
 import codecs
+import time
 
 with codecs.open('index.md', 'w', 'utf-8') as index:
     config = yaml.load(open('config.yaml'))
@@ -15,3 +16,4 @@ with codecs.open('index.md', 'w', 'utf-8') as index:
     index.write(weather_1)
     index.write(weather_2)
     index.write(weather_3)  # use coding utf8
+    index.write(str(time.time()))
