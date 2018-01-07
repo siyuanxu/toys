@@ -1,5 +1,5 @@
 # -*-coding:utf-8-*-
-from weather_api import weather
+from api import weather
 import yaml
 import codecs
 
