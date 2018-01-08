@@ -140,12 +140,16 @@ class fund(object):
         self.result = json.loads(response.read().decode('utf-8'))['result'][0]
 
     def test(self):
-        # print(len(self.result))
-        # lenth = len(self.result)
-        # for i in range(1, lenth):
-        #     stock = self.result['{0}'.format(i)]
-        #     print(stock['accrate'])
+        print(len(self.result))
+        lenth = len(self.result)
+        for i in range(1, lenth/10):
+            stock = self.result['{0}'.format(i)]
+            print(stock['accrate'])
+
+    def raw_write(self):
+        with open('1.json','w') as f:
+            f.write(str(self.result))
 
 if __name__ == '__main__':
     config = yaml.load(open('config.yaml'))
-    fund_ = fund(config).test()
+    fund_ = fund(config).raw_write()
