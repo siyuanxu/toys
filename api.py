@@ -155,8 +155,3 @@ class fund(object):
             str_i = '|' + str(name[i]) + '|' + str(code[i]) + \
                 '|' + str(fundnum[i]) + '|' + '\n'
             self.to_write += str_i
-
-
-if __name__ == '__main__':
-    config = yaml.load(open('config.yaml'))
-    fund_ = fund(config).to_str()
