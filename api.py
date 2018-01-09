@@ -1,5 +1,6 @@
 #-*-coding:utf-8-*-
 from urllib import request, parse
+import pandas as pd
 import json
 import yaml
 
@@ -124,6 +125,7 @@ class fund(object):
         super(fund, self).__init__()
         self.config = config
         self.get_fund()
+        self.to_str()
 
     def get_fund(self):
         key = self.config['juhe_appkey']
@@ -139,13 +141,22 @@ class fund(object):
             print(e)
         self.result = json.loads(response.read().decode('utf-8'))['result'][0]
 
-    def test(self):
-        # print(len(self.result))
-        # lenth = len(self.result)
-        # for i in range(1, lenth):
-        #     stock = self.result['{0}'.format(i)]
-        #     print(stock['accrate'])
+    def to_str(self):
+        data = pd.DataFrame(self.result).T
+        data.fundnum = data.fundnum.astype(int)
+        fundnum_sort = data.sort_values(by='fundnum')
+        most_fund = fundnum_sort[-10:]
+        name = most_fund.name
+        fundnum = most_fund.fundnum
+        code = most_fund.code
+        self.to_write = '\n## 今日重仓股'
+        self.to_write += '\n|股票名称|股票代码|被持有基金数|\n|---|---|---|\n'
+        for i in range(len(name)):
+            str_i = '|' + str(name[i]) + '|' + str(code[i]) + \
+                '|' + str(fundnum[i]) + '|' + '\n'
+            self.to_write += str_i
+
 
 if __name__ == '__main__':
     config = yaml.load(open('config.yaml'))
-    fund_ = fund(config).test()
+    fund_ = fund(config).to_str()
