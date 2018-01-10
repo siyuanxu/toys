@@ -1,7 +1,7 @@
 ## 今日 2018年01月10日 天气
 ### 中国 江苏 南京 南京
 
-今日温度 4度 到 -6度
+今日温度 7度 到 -2度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/day/00.png)
 
@@ -15,7 +15,7 @@
 
 今日温度 6度 到 -8度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/00.png)
 
 实时天气 -- 晴 0摄氏度 西风2级
 
@@ -25,13 +25,13 @@
     
 ### 中国 四川 泸州 泸州
 
-今日温度 11度 到 1度
+今日温度 11度 到 2度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
-实时天气 -- 阴 1摄氏度 东风2级
+实时天气 -- 阴 2摄氏度 东南风 2级
 
-实时空气质量 -- AQI:64 良好 PM2.5:45
+实时空气质量 -- AQI:63 良好 PM2.5:44
 
 预警信息 -- 又是平静的一天
     
