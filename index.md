@@ -5,7 +5,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
-实时天气 -- 晴 -1摄氏度 东风1级
+实时天气 -- 晴 -1摄氏度 静风0级
 
 实时空气质量 -- AQI:60 良好 PM2.5:31
 
@@ -17,9 +17,9 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
-实时天气 -- 晴 -3摄氏度 西南风1级
+实时天气 -- 晴 -3摄氏度 东风1级
 
-实时空气质量 -- AQI:55 良好 PM2.5:21
+实时空气质量 -- AQI:52 良好 PM2.5:19
 
 预警信息 -- 漯河市气象台2018年01月10日20时20分发布低温蓝色预警信号：预计未来24小时内漯河市两县三区最低气温将要降至零下10℃以下，请注意防范。
     
@@ -27,11 +27,11 @@
 
 今日温度 11度 到 2度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
-实时天气 -- 晴 8摄氏度 北风1级
+实时天气 -- 多云 7摄氏度 东北风1级
 
-实时空气质量 -- AQI:103 轻度污染 PM2.5:76
+实时空气质量 -- AQI:110 轻度污染 PM2.5:82
 
 预警信息 -- 又是平静的一天
     
