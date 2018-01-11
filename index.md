@@ -17,7 +17,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
-实时天气 -- 晴 -3摄氏度 静风0级
+实时天气 -- 晴 -4摄氏度 静风0级
 
 实时空气质量 -- AQI:68 良好 PM2.5:43
 
