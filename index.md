@@ -17,7 +17,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
-实时天气 -- 晴 0摄氏度 南风1级
+实时天气 -- 晴 0摄氏度 东南风 1级
 
 实时空气质量 -- AQI:150 轻度污染 PM2.5:115
 
