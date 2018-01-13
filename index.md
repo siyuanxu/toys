@@ -1,13 +1,13 @@
 ## 今日 2018年01月14日 天气
 ### 中国 江苏 南京 南京
 
-今日温度 12度 到 0度
+今日温度 12度 到 1度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
 
-实时天气 -- 阴 0摄氏度 东南风 2级
+实时天气 -- 阴 0摄氏度 东风2级
 
-实时空气质量 -- AQI:97 良好 PM2.5:72
+实时空气质量 -- AQI:99 良好 PM2.5:74
 
 预警信息 -- 又是平静的一天
     
@@ -25,13 +25,13 @@
     
 ### 中国 四川 泸州 泸州
 
-今日温度 12度 到 5度
+今日温度 12度 到 6度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
 实时天气 -- 晴 2摄氏度 北风1级
 
-实时空气质量 -- AQI:130 轻度污染 PM2.5:98
+实时空气质量 -- AQI:121 轻度污染 PM2.5:91
 
 预警信息 -- 又是平静的一天
     
