@@ -1,37 +1,37 @@
 ## 今日 2018年01月13日 天气
 ### 中国 江苏 南京 南京
 
-今日温度 7度 到 -3度
+今日温度 7度 到 0度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/00.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
-实时天气 -- 晴 4摄氏度 东风2级
+实时天气 -- 晴 3摄氏度 东风2级
 
-实时空气质量 -- AQI:70 良好 PM2.5:48
+实时空气质量 -- AQI:67 良好 PM2.5:44
 
 预警信息 -- 又是平静的一天
     
 ### 中国 河南 漯河 漯河
 
-今日温度 3度 到 -5度
+今日温度 3度 到 -3度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/01.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
-实时天气 -- 多云 2摄氏度 东南风 1级
+实时天气 -- 多云 1摄氏度 静风0级
 
-实时空气质量 -- AQI:143 轻度污染 PM2.5:109
+实时空气质量 -- AQI:138 轻度污染 PM2.5:105
 
 预警信息 -- 河南省气象台2018年01月13日14时45分发布大风蓝色预警：预计未来24小时，安阳、鹤壁、濮阳及滑县部分地区偏南风4到5级，局部阵风6级或以上。请注意防范。
     
 ### 中国 四川 泸州 泸州
 
-今日温度 8度 到 4度
+今日温度 8度 到 5度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/01.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
 
-实时天气 -- 多云 7摄氏度 南风2级
+实时天气 -- 阴 7摄氏度 南风2级
 
-实时空气质量 -- AQI:200 中度污染 PM2.5:150
+实时空气质量 -- AQI:206 重度污染 PM2.5:155
 
 预警信息 -- 又是平静的一天
     
