@@ -5,7 +5,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
-实时天气 -- 多云 11摄氏度 东风2级
+实时天气 -- 多云 10摄氏度 东风2级
 
 实时空气质量 -- AQI:82 良好 PM2.5:60
 
@@ -17,7 +17,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
-实时天气 -- 多云 6摄氏度 北风1级
+实时天气 -- 多云 5摄氏度 静风0级
 
 实时空气质量 -- AQI:256 重度污染 PM2.5:205
 
@@ -27,9 +27,9 @@
 
 今日温度 10度 到 6度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/01.png)
 
-实时天气 -- 阴 7摄氏度 西北风2级
+实时天气 -- 多云 7摄氏度 西风1级
 
 实时空气质量 -- AQI:238 重度污染 PM2.5:187
 
