@@ -3,9 +3,9 @@
 
 今日温度 10度 到 3度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/18.png)
 
-实时天气 -- 阴 6摄氏度 西风1级
+实时天气 -- 雾 6摄氏度 西北风2级
 
 实时空气质量 -- AQI:231 重度污染 PM2.5:180
 
