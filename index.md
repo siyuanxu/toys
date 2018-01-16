@@ -5,9 +5,9 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
 
-实时天气 -- 阴 8摄氏度 西北风1级
+实时天气 -- 阴 8摄氏度 西风1级
 
-实时空气质量 -- AQI:91 良好 PM2.5:67
+实时空气质量 -- AQI:93 良好 PM2.5:69
 
 预警信息 -- 又是平静的一天
     
@@ -15,11 +15,11 @@
 
 今日温度 8度 到 0度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
 
 实时天气 -- 阴 3摄氏度 南风1级
 
-实时空气质量 -- AQI:297 重度污染 PM2.5:246
+实时空气质量 -- AQI:294 重度污染 PM2.5:243
 
 预警信息 -- 河南省气象台2018年01月15日04时25分发布大雾黄色预警：预计今天凌晨到上午，濮阳、开封、商丘、许昌、漯河、南阳、驻马店七地区和郑州、平顶山两地区东部及兰考、邓州部分地区将出现能见度小于500米的雾，局地能见度小于50米，请注意防范。
     
@@ -27,11 +27,11 @@
 
 今日温度 14度 到 5度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/18.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
-实时天气 -- 雾 6摄氏度 西风2级
+实时天气 -- 阴 6摄氏度 西风2级
 
-实时空气质量 -- AQI:188 中度污染 PM2.5:141
+实时空气质量 -- AQI:178 中度污染 PM2.5:134
 
 预警信息 -- 又是平静的一天
     
