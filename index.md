@@ -29,7 +29,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
-实时天气 -- 阴 8摄氏度 南风2级
+实时天气 -- 阴 8摄氏度 东南风 2级
 
 实时空气质量 -- AQI:99 良好 PM2.5:74
 
