@@ -17,7 +17,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/18.png)
 
-实时天气 -- 雾 2摄氏度 北风1级
+实时天气 -- 雾 2摄氏度 西北风1级
 
 实时空气质量 -- AQI:225 重度污染 PM2.5:174
 
