@@ -1,7 +1,7 @@
-## 今日 2018年01月17日 天气
+## 今日 2018年01月18日 天气
 ### 中国 江苏 南京 南京
 
-今日温度 9度 到 2度
+今日温度 11度 到 3度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
@@ -13,11 +13,11 @@
     
 ### 中国 河南 漯河 漯河
 
-今日温度 8度 到 -2度
+今日温度 9度 到 -1度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/18.png)
 
-实时天气 -- 雾 2摄氏度 北风1级
+实时天气 -- 雾 2摄氏度 北风2级
 
 实时空气质量 -- AQI:231 重度污染 PM2.5:180
 
@@ -25,7 +25,7 @@
     
 ### 中国 四川 泸州 泸州
 
-今日温度 12度 到 9度
+今日温度 10度 到 8度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
