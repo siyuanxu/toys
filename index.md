@@ -1,11 +1,11 @@
 ## 今日 2018年01月18日 天气
 ### 中国 江苏 南京 南京
 
-今日温度 11度 到 3度
+今日温度 11度 到 4度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/00.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/01.png)
 
-实时天气 -- 晴 3摄氏度 北风1级
+实时天气 -- 多云 3摄氏度 东风1级
 
 实时空气质量 -- AQI:175 中度污染 PM2.5:132
 
@@ -13,11 +13,11 @@
     
 ### 中国 河南 漯河 漯河
 
-今日温度 9度 到 -1度
+今日温度 9度 到 0度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/18.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/18.png)
 
-实时天气 -- 雾 0摄氏度 静风0级
+实时天气 -- 雾 0摄氏度 北风1级
 
 实时空气质量 -- AQI:347 严重污染 PM2.5:296
 
@@ -25,13 +25,13 @@
     
 ### 中国 四川 泸州 泸州
 
-今日温度 10度 到 8度
+今日温度 9度 到 7度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
-实时天气 -- 多云 8摄氏度 南风2级
+实时天气 -- 阴 8摄氏度 南风2级
 
-实时空气质量 -- AQI:89 良好 PM2.5:66
+实时空气质量 -- AQI:86 良好 PM2.5:63
 
 预警信息 -- 泸州市气象台01月16日22时20分发布大雾黄色预警信号：预计17日凌晨到上午，江阳区、纳溪区、龙马潭区、泸县、合江县等地将出现能见度小于500米的雾，部分地区能见度小于200米。请注意预防大雾天气可能造成的危害，出行注意交通安全。
     
