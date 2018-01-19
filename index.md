@@ -5,7 +5,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/18.png)
 
-实时天气 -- 雾 5摄氏度 西北风1级
+实时天气 -- 雾 5摄氏度 静风0级
 
 实时空气质量 -- AQI:281 重度污染 PM2.5:230
 
@@ -29,9 +29,9 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
-实时天气 -- 阴 9摄氏度 静风0级
+实时天气 -- 阴 9摄氏度 东风1级
 
-实时空气质量 -- AQI:149 轻度污染 PM2.5:114
+实时空气质量 -- AQI:139 轻度污染 PM2.5:106
 
 预警信息 -- 又是平静的一天
     
