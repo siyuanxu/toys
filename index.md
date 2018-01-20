@@ -17,7 +17,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/18.png)
 
-实时天气 -- 雾 1摄氏度 西南风1级
+实时天气 -- 雾 1摄氏度 北风1级
 
 实时空气质量 -- AQI:116 轻度污染 PM2.5:87
 
@@ -29,7 +29,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
-实时天气 -- 阴 8摄氏度 西南风1级
+实时天气 -- 阴 8摄氏度 东南风 1级
 
 实时空气质量 -- AQI:192 中度污染 PM2.5:144
 
