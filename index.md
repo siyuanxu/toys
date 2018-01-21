@@ -3,11 +3,11 @@
 
 今日温度 10度 到 3度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/01.png)
 
-实时天气 -- 阴 7摄氏度 东风2级
+实时天气 -- 多云 7摄氏度 东风3级
 
-实时空气质量 -- AQI:192 中度污染 PM2.5:144
+实时空气质量 -- AQI:199 中度污染 PM2.5:149
 
 预警信息 -- 江苏省气象台2018年01月21日09时37分继续发布霾黄色预警信号。预计未来24小时内沿江以北大部分地区维持中度霾，局部地区重度霾。请注意防范！
     
@@ -15,11 +15,11 @@
 
 今日温度 8度 到 -2度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/01.png)
 
-实时天气 -- 阴 2摄氏度 东北风2级
+实时天气 -- 多云 2摄氏度 北风2级
 
-实时空气质量 -- AQI:77 良好 PM2.5:56
+实时空气质量 -- AQI:97 良好 PM2.5:66
 
 预警信息 -- 漯河市气象台2018年1月21日07时53分发布大雾红色预警信号，预计今天上午我市部分地区将出现能见度小于50米的浓雾，请有关单位和人员加强防范。
     
@@ -27,11 +27,11 @@
 
 今日温度 16度 到 7度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/01.png)
 
-实时天气 -- 阴 11摄氏度 南风1级
+实时天气 -- 多云 12摄氏度 南风1级
 
-实时空气质量 -- AQI:146 轻度污染 PM2.5:111
+实时空气质量 -- AQI:157 中度污染 PM2.5:119
 
 预警信息 -- 又是平静的一天
     
