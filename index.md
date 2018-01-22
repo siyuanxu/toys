@@ -1,11 +1,11 @@
-## 今日 2018年01月22日 天气
+## 今日 2018年01月23日 天气
 ### 中国 江苏 南京 南京
 
-今日温度 12度 到 2度
+今日温度 4度 到 0度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
-实时天气 -- 多云 5摄氏度 东风1级
+实时天气 -- 多云 5摄氏度 东南风 2级
 
 实时空气质量 -- AQI:207 重度污染 PM2.5:156
 
@@ -13,7 +13,7 @@
     
 ### 中国 河南 漯河 漯河
 
-今日温度 6度 到 -1度
+今日温度 3度 到 -2度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
@@ -25,7 +25,7 @@
     
 ### 中国 四川 泸州 泸州
 
-今日温度 16度 到 9度
+今日温度 14度 到 8度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
