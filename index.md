@@ -29,7 +29,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
-实时天气 -- 阴 10摄氏度 东南风 1级
+实时天气 -- 阴 10摄氏度 东风1级
 
 实时空气质量 -- AQI:105 轻度污染 PM2.5:78
 
