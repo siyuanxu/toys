@@ -17,7 +17,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
-实时天气 -- 阴 -1摄氏度 东北风2级
+实时天气 -- 阴 -1摄氏度 东北风1级
 
 实时空气质量 -- AQI:131 轻度污染 PM2.5:99
 
