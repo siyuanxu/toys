@@ -155,3 +155,36 @@ class fund(object):
             str_i = '|' + str(name[i]) + '|' + str(code[i]) + \
                 '|' + str(fundnum[i]) + '|' + '\n'
             self.to_write += str_i
+
+
+class stock(object):
+    """
+    get sigle stock infomations from sina api
+    hq.sinajs.cn"""
+
+    def __init__(self, stock_id):
+        super(stock, self).__init__()
+        if stock_id[0] == '0':
+            # 深圳所
+            self.stock = 'sz' + stock_id
+        elif stock_id[0] == '6':
+            # 上海所
+            self.stock = 'sh' + stock_id
+        self.rt_stock()
+
+    def rt_stock(self):
+        sina_url = 'http://hq.sinajs.cn/list=' + self.stock
+        data = str(request.urlopen(sina_url).read()).split(',')[1:]
+        self.today_open = data[0]
+        self.yes_close = data[1]
+        self.rt_price = data[2]
+        self.rt_rate = round(
+            100 * (float(self.rt_price) - float(
+                self.yes_close)) / float(self.yes_close), 2)
+        self.today_max = data[3]
+        self.today_min = data[4]
+
+
+if __name__ == '__main__':
+    config = yaml.load(open('config.yaml', encoding="utf8"))
+    stock(config)

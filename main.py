@@ -2,11 +2,12 @@
 from api import *
 import yaml
 import codecs
-import time
+import smtplib
+from email.mime.text import MIMEText
 
 with codecs.open('index.md', 'w', 'utf-8') as index:
     # load keys and config
-    config = yaml.load(open('config.yaml'))
+    config = yaml.load(open('config.yaml', encoding="utf8"))
     # weather toy
     weather_main = weather('南京', config)
     weather_1 = weather_main.to_write
@@ -22,3 +23,4 @@ with codecs.open('index.md', 'w', 'utf-8') as index:
     # fund toy
     fund_res = fund(config).to_write
     index.write(fund_res)
+
