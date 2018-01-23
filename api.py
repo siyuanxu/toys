@@ -149,21 +149,24 @@ class fund(object):
         name = most_fund.name
         fundnum = most_fund.fundnum
         code = most_fund.code
+
         self.to_write = '\n## 今日重仓股 \n'
-        self.to_write += '\n|股票名称|股票代码|被持有基金数|\n|---|---|---|\n'
+        self.to_write += '\n|股票名称|股票代码|被持有基金数|当前价格|今日变幅|\n|---|---|---|---|---|\n'
         for i in range(len(name)):
+            stock = stock_info(str(code[i]))
             str_i = '|' + str(name[i]) + '|' + str(code[i]) + \
-                '|' + str(fundnum[i]) + '|' + '\n'
+                '|' + str(fundnum[i]) + '|' + str(stock.rt_price) +\
+                '|' + str(stock.rt_rate) + '|' + '\n'
             self.to_write += str_i
 
 
-class stock(object):
+class stock_info(object):
     """
     get sigle stock infomations from sina api
     hq.sinajs.cn"""
 
     def __init__(self, stock_id):
-        super(stock, self).__init__()
+        super(stock_info, self).__init__()
         if stock_id[0] == '0':
             # 深圳所
             self.stock = 'sz' + stock_id
@@ -184,7 +187,22 @@ class stock(object):
         self.today_max = data[3]
         self.today_min = data[4]
 
+        self.k_img = 'http://image.sinajs.cn/newchart/daily/n/{}.gif'.format(
+            self.stock)
+
+
+class stock_pool(object):
+    """更新关注股票的动态信息"""
+
+    def __init__(self, config):
+        super(stock_pool, self).__init__()
+        self.pool = config['stocks']
+        self.get_pool()
+
+    def get_pool(self):
+        return
+
 
 if __name__ == '__main__':
     config = yaml.load(open('config.yaml', encoding="utf8"))
-    stock(config)
+    print(fund(config).to_write)
