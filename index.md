@@ -29,7 +29,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/301.png)
 
-实时天气 -- 雨 9摄氏度 西北风1级
+实时天气 -- 雨 9摄氏度 西北风2级
 
 实时空气质量 -- AQI:161 中度污染 PM2.5:122
 
