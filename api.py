@@ -152,7 +152,7 @@ class fund(object):
         code = most_fund.code
 
         self.to_write = '\n## 今日重仓股 \n'
-        self.to_write += '\n|股名|代码|被持数|时假|涨跌%|\n|---|---|---|---|---|\n'
+        self.to_write += '\n|股名|代码|被持数|时价|涨跌%|\n|---|---|---|---|---|\n'
         for i in range(len(name)):
             stock = stock_info(str(code[i]))
             str_i = '|' + str(name[i]) + '|' + str(code[i]) + \
