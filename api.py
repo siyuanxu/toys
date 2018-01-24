@@ -3,6 +3,7 @@ from urllib import request, parse
 import pandas as pd
 import json
 import yaml
+import time
 
 
 class weather(object):
@@ -151,7 +152,7 @@ class fund(object):
         code = most_fund.code
 
         self.to_write = '\n## 今日重仓股 \n'
-        self.to_write += '\n|股票名称|股票代码|被持有基金数|当前价格|今日变幅|\n|---|---|---|---|---|\n'
+        self.to_write += '\n|股名|代码|被持数|时假|涨跌%|\n|---|---|---|---|---|\n'
         for i in range(len(name)):
             stock = stock_info(str(code[i]))
             str_i = '|' + str(name[i]) + '|' + str(code[i]) + \
@@ -177,7 +178,9 @@ class stock_info(object):
 
     def rt_stock(self):
         sina_url = 'http://hq.sinajs.cn/list=' + self.stock
-        data = str(request.urlopen(sina_url).read()).split(',')[1:]
+        self.name = request.urlopen(
+            sina_url).read().decode('gb2312').split(',')[0].split('"')[1]
+        data = request.urlopen(sina_url).read().decode('gb2312').split(',')[1:]
         self.today_open = data[0]
         self.yes_close = data[1]
         self.rt_price = data[2]
@@ -187,7 +190,9 @@ class stock_info(object):
         self.today_max = data[3]
         self.today_min = data[4]
 
-        self.k_img = 'http://image.sinajs.cn/newchart/daily/n/{}.gif'.format(
+        self.k_img_day = 'http://image.sinajs.cn/newchart/daily/n/{}.gif'.format(
+            self.stock)
+        self.k_img_min = 'http://image.sinajs.cn/newchart/min/n/{}.gif'.format(
             self.stock)
 
 
@@ -196,13 +201,23 @@ class stock_pool(object):
 
     def __init__(self, config):
         super(stock_pool, self).__init__()
-        self.pool = config['stocks']
-        self.get_pool()
+        self.pool = config['stocks'].split(';')
+        self.pool_info()
 
-    def get_pool(self):
-        return
+    def pool_info(self):
+        self.to_write = '\n## 关注股信息\n**更新时间 : {}**'.format(
+            time.asctime(time.localtime(time.time())))
+        for stock in self.pool:
+            info = stock_info(stock)
+            stock_name = info.name
+            stock_k_img_day = info.k_img_day
+            stock_k_img_min = info.k_img_min
+            line = '\n### {0} \n分时k线\n![{1}min]({2})\n日k线\n![{3}day]({4})'.format(
+                stock_name, stock, stock_k_img_min, stock, stock_k_img_day)
+            self.to_write += line+'\n'
 
 
 if __name__ == '__main__':
     config = yaml.load(open('config.yaml', encoding="utf8"))
-    print(fund(config).to_write)
+    a = stock_pool(config)
+    print(a.to_write)
