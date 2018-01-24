@@ -212,7 +212,7 @@ class stock_pool(object):
             stock_name = info.name
             stock_k_img_day = info.k_img_day
             stock_k_img_min = info.k_img_min
-            line = '\n### {0} \n分时k线\n![{1}min]({2})\n日k线\n![{3}day]({4})'.format(
+            line = '\n### {0} \n分时k线\n![{1}min]({2})\n\n日k线\n![{3}day]({4})'.format(
                 stock_name, stock, stock_k_img_min, stock, stock_k_img_day)
             self.to_write += line+'\n'
 
