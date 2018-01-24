@@ -53,4 +53,5 @@ with codecs.open('index.md', 'w', 'utf-8') as index:
     index.write(weather_3)  # use coding utf8
 
     # time log
+    index.write('\n')
     index.write(time.strftime('%Y-%m-%d %H:%M', time.localtime(time.time())))
