@@ -27,14 +27,14 @@
 ![000725min](http://image.sinajs.cn/newchart/min/n/sz000725.gif)
 日k线
 ![000725day](http://image.sinajs.cn/newchart/daily/n/sz000725.gif)
-## 今日 2018年01月24日 天气
+## 今日 2018年01月25日 天气
 ### 中国 江苏 南京 南京
 
-今日温度 5度 到 -1度
+今日温度 0度 到 -2度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/302.png)
 
-实时天气 -- 雪 -1摄氏度 东风2级
+实时天气 -- 雪 -1摄氏度 东北风2级
 
 实时空气质量 -- AQI:44 优质 PM2.5:23
 
@@ -42,11 +42,11 @@
     
 ### 中国 河南 漯河 漯河
 
-今日温度 1度 到 -3度
+今日温度 -2度 到 -6度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
-实时天气 -- 阴 -3摄氏度 东北风2级
+实时天气 -- 阴 -3摄氏度 东风2级
 
 实时空气质量 -- AQI:100 良好 PM2.5:75
 
@@ -54,14 +54,14 @@
     
 ### 中国 四川 泸州 泸州
 
-今日温度 12度 到 5度
+今日温度 12度 到 4度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/301.png)
 
 实时天气 -- 雨 9摄氏度 西北风2级
 
-实时空气质量 -- AQI:69 良好 PM2.5:49
+实时空气质量 -- AQI:60 良好 PM2.5:42
 
 预警信息 -- 又是平静的一天
     
-2018-01-25 00:00
+2018-01-25 00:05
