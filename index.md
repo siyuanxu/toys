@@ -27,9 +27,9 @@
 
 今日温度 12度 到 8度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/18.png)
 
-实时天气 -- 阴 10摄氏度 东北风2级
+实时天气 -- 雾 10摄氏度 南风2级
 
 实时空气质量 -- AQI:87 良好 PM2.5:64
 
