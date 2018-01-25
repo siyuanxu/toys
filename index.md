@@ -50,9 +50,9 @@
 
 今日温度 -3度 到 -6度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/302.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
 
-实时天气 -- 雪 -3摄氏度 东北风3级
+实时天气 -- 阴 -3摄氏度 东北风3级
 
 实时空气质量 -- AQI:60 良好 PM2.5:42
 
@@ -70,4 +70,4 @@
 
 预警信息 -- 又是平静的一天
     
-2018-01-25 12:30
+2018-01-25 12:35
