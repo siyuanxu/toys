@@ -33,14 +33,14 @@
 日k线
 
 ![000725day](http://image.sinajs.cn/newchart/daily/n/sz000725.gif)
-## 今日 2018年01月26日 天气
+## 今日 2018年01月27日 天气
 ### 中国 江苏 南京 南京
 
-今日温度 -1度 到 -3度
+今日温度 0度 到 -3度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
-实时天气 -- 阴 -2摄氏度 东风2级
+实时天气 -- 阴 -2摄氏度 东北风2级
 
 实时空气质量 -- AQI:36 优质 PM2.5:25
 
@@ -48,7 +48,7 @@
     
 ### 中国 河南 漯河 漯河
 
-今日温度 1度 到 -5度
+今日温度 -2度 到 -9度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
@@ -60,14 +60,14 @@
     
 ### 中国 四川 泸州 泸州
 
-今日温度 6度 到 2度
+今日温度 5度 到 2度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/301.png)
 
 实时天气 -- 雨 3摄氏度 东风2级
 
-实时空气质量 -- AQI:38 优质 PM2.5:22
+实时空气质量 -- AQI:30 优质 PM2.5:21
 
 预警信息 -- 又是平静的一天
     
-2018-01-27 00:00
+2018-01-27 00:05
