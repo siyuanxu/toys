@@ -62,12 +62,12 @@
 
 今日温度 6度 到 2度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/301.png)
 
-实时天气 -- 阴 4摄氏度 西风2级
+实时天气 -- 雨 4摄氏度 西北风1级
 
-实时空气质量 -- AQI:20 优质 PM2.5:14
+实时空气质量 -- AQI:28 优质 PM2.5:16
 
 预警信息 -- 又是平静的一天
     
-2018-01-26 12:10
+2018-01-26 12:15
