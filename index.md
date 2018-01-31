@@ -60,14 +60,14 @@
     
 ### 中国 四川 泸州 泸州
 
-今日温度 9度 到 1度
+今日温度 8度 到 -3度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/01.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
 
-实时天气 -- 多云 5摄氏度 西北风2级
+实时天气 -- 阴 6摄氏度 西北风2级
 
-实时空气质量 -- AQI:93 良好 PM2.5:69
+实时空气质量 -- AQI:88 良好 PM2.5:65
 
 预警信息 -- 又是平静的一天
     
-2018-01-31 12:30
+2018-01-31 12:35
