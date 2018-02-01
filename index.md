@@ -33,10 +33,10 @@
 日k线
 
 ![000725day](http://image.sinajs.cn/newchart/daily/n/sz000725.gif)
-## 今日 2018年02月01日 天气
+## 今日 2018年02月02日 天气
 ### 中国 江苏 南京 南京
 
-今日温度 4度 到 -4度
+今日温度 5度 到 -4度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
@@ -48,11 +48,11 @@
     
 ### 中国 河南 漯河 漯河
 
-今日温度 7度 到 -3度
+今日温度 2度 到 -8度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
-实时天气 -- 多云 1摄氏度 西南风1级
+实时天气 -- 多云 2摄氏度 西南风2级
 
 实时空气质量 -- AQI:94 良好 PM2.5:65
 
@@ -64,10 +64,10 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
-实时天气 -- 阴 4摄氏度 南风1级
+实时天气 -- 阴 4摄氏度 西南风2级
 
 实时空气质量 -- AQI:147 轻度污染 PM2.5:112
 
 预警信息 -- 又是平静的一天
     
-2018-02-02 00:00
+2018-02-02 00:05
