@@ -40,7 +40,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
-实时天气 -- 多云 -3摄氏度 东北风2级
+实时天气 -- 多云 -3摄氏度 北风2级
 
 实时空气质量 -- AQI:58 良好 PM2.5:20
 
@@ -52,7 +52,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
-实时天气 -- 晴 -6摄氏度 北风1级
+实时天气 -- 晴 -7摄氏度 东风1级
 
 实时空气质量 -- AQI:86 良好 PM2.5:36
 
@@ -64,10 +64,10 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
-实时天气 -- 阴 4摄氏度 东风2级
+实时天气 -- 阴 4摄氏度 东风1级
 
 实时空气质量 -- AQI:72 良好 PM2.5:52
 
 预警信息 -- 又是平静的一天
     
-2018-02-03 04:30
+2018-02-03 04:35
