@@ -50,9 +50,9 @@
 
 今日温度 4度 到 -6度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/00.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
-实时天气 -- 晴 1摄氏度 静风0级
+实时天气 -- 晴 0摄氏度 静风0级
 
 实时空气质量 -- AQI:66 良好 PM2.5:29
 
@@ -70,4 +70,4 @@
 
 预警信息 -- 又是平静的一天
     
-2018-02-03 18:30
+2018-02-03 18:35
