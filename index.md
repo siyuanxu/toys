@@ -38,23 +38,23 @@
 
 今日温度 4度 到 -5度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/00.png)
 
-实时天气 -- 晴 -3摄氏度 东南风 1级
+实时天气 -- 晴 -3摄氏度 东北风1级
 
-实时空气质量 -- AQI:86 良好 PM2.5:63
+实时空气质量 -- AQI:65 良好 PM2.5:46
 
 预警信息 -- 又是平静的一天
     
 ### 中国 河南 漯河 漯河
 
-今日温度 8度 到 -5度
+今日温度 8度 到 -3度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/00.png)
 
-实时天气 -- 晴 -5摄氏度 西北风1级
+实时天气 -- 晴 -6摄氏度 西北风1级
 
-实时空气质量 -- AQI:96 良好 PM2.5:71
+实时空气质量 -- AQI:98 良好 PM2.5:73
 
 预警信息 -- 又是平静的一天
     
@@ -64,10 +64,10 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
-实时天气 -- 多云 1摄氏度 东风1级
+实时天气 -- 多云 2摄氏度 东南风 1级
 
-实时空气质量 -- AQI:86 良好 PM2.5:63
+实时空气质量 -- AQI:93 良好 PM2.5:69
 
 预警信息 -- 又是平静的一天
     
-2018-02-06 07:30
+2018-02-06 07:35
