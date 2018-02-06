@@ -15,7 +15,7 @@
 |中国平安|601318|868|73.370|-3.09|
 
 ## 关注股信息
-**更新时间 : Tue Feb  6 11:30:08 2018**
+**更新时间 : Tue Feb  6 11:35:08 2018**
 ### 招商银行 
 分时k线
 
@@ -40,9 +40,9 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/day/00.png)
 
-实时天气 -- 晴 0摄氏度 东风2级
+实时天气 -- 晴 1摄氏度 东南风 2级
 
-实时空气质量 -- AQI:58 良好 PM2.5:35
+实时空气质量 -- AQI:56 良好 PM2.5:29
 
 预警信息 -- 又是平静的一天
     
@@ -50,11 +50,11 @@
 
 今日温度 8度 到 -4度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/00.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/01.png)
 
-实时天气 -- 晴 0摄氏度 西北风2级
+实时天气 -- 多云 1摄氏度 西风1级
 
-实时空气质量 -- AQI:138 轻度污染 PM2.5:105
+实时空气质量 -- AQI:142 轻度污染 PM2.5:108
 
 预警信息 -- 又是平静的一天
     
@@ -62,12 +62,12 @@
 
 今日温度 11度 到 4度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/01.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
 
-实时天气 -- 多云 3摄氏度 东北风1级
+实时天气 -- 阴 3摄氏度 东风1级
 
 实时空气质量 -- AQI:92 良好 PM2.5:68
 
 预警信息 -- 又是平静的一天
     
-2018-02-06 11:30
+2018-02-06 11:35
