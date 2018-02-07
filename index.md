@@ -38,11 +38,11 @@
 
 今日温度 6度 到 -3度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
-实时天气 -- 多云 -2摄氏度 北风2级
+实时天气 -- 晴 -2摄氏度 北风1级
 
-实时空气质量 -- AQI:94 良好 PM2.5:70
+实时空气质量 -- AQI:106 轻度污染 PM2.5:79
 
 预警信息 -- 又是平静的一天
     
@@ -50,11 +50,11 @@
 
 今日温度 7度 到 -5度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
-实时天气 -- 多云 -5摄氏度 东风1级
+实时天气 -- 晴 -5摄氏度 东风1级
 
-实时空气质量 -- AQI:105 轻度污染 PM2.5:53
+实时空气质量 -- AQI:103 轻度污染 PM2.5:56
 
 预警信息 -- 河南省气象台2018年02月07日11时10分发布大风蓝色预警：预计未来24小时，黄河以北和郑州、许昌、洛阳、平顶山、漯河、驻马店、周口、开封、商丘九地区及三门峡北部以及兰考、巩义、汝州、新蔡、鹿邑、永城部分地区西北风或偏北风4到5级，局部阵风6级或以上。请注意防范。
     
@@ -62,12 +62,12 @@
 
 今日温度 13度 到 4度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
-实时天气 -- 阴 3摄氏度 东风1级
+实时天气 -- 多云 3摄氏度 东风2级
 
-实时空气质量 -- AQI:121 轻度污染 PM2.5:91
+实时空气质量 -- AQI:114 轻度污染 PM2.5:85
 
 预警信息 -- 又是平静的一天
     
-2018-02-08 06:30
+2018-02-08 06:35
