@@ -33,14 +33,14 @@
 日k线
 
 ![000725day](http://image.sinajs.cn/newchart/daily/n/sz000725.gif)
-## 今日 2018年02月07日 天气
+## 今日 2018年02月08日 天气
 ### 中国 江苏 南京 南京
 
-今日温度 6度 到 -4度
+今日温度 6度 到 -3度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
-实时天气 -- 多云 2摄氏度 北风2级
+实时天气 -- 多云 1摄氏度 西北风1级
 
 实时空气质量 -- AQI:99 良好 PM2.5:74
 
@@ -48,11 +48,11 @@
     
 ### 中国 河南 漯河 漯河
 
-今日温度 10度 到 -4度
+今日温度 7度 到 -5度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
-实时天气 -- 多云 -1摄氏度 静风0级
+实时天气 -- 多云 -2摄氏度 静风0级
 
 实时空气质量 -- AQI:106 轻度污染 PM2.5:66
 
@@ -60,14 +60,14 @@
     
 ### 中国 四川 泸州 泸州
 
-今日温度 8度 到 5度
+今日温度 13度 到 4度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/18.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
-实时天气 -- 雾 3摄氏度 东南风 2级
+实时天气 -- 阴 3摄氏度 东南风 2级
 
 实时空气质量 -- AQI:171 中度污染 PM2.5:129
 
 预警信息 -- 又是平静的一天
     
-2018-02-08 00:00
+2018-02-08 00:05
