@@ -36,13 +36,13 @@
 ## 今日 2018年02月09日 天气
 ### 中国 江苏 南京 南京
 
-今日温度 9度 到 0度
+今日温度 9度 到 2度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
 
 实时天气 -- 阴 1摄氏度 东风2级
 
-实时空气质量 -- AQI:133 轻度污染 PM2.5:101
+实时空气质量 -- AQI:153 中度污染 PM2.5:116
 
 预警信息 -- 又是平静的一天
     
@@ -50,9 +50,9 @@
 
 今日温度 10度 到 0度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
 
-实时天气 -- 阴 0摄氏度 东南风 1级
+实时天气 -- 阴 0摄氏度 南风1级
 
 实时空气质量 -- AQI:122 轻度污染 PM2.5:92
 
@@ -70,4 +70,4 @@
 
 预警信息 -- 又是平静的一天
     
-2018-02-09 07:30
+2018-02-09 07:35
