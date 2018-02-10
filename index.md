@@ -38,11 +38,11 @@
 
 今日温度 7度 到 -4度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
-实时天气 -- 多云 -2摄氏度 东南风 1级
+实时天气 -- 阴 -2摄氏度 静风0级
 
-实时空气质量 -- AQI:70 良好 PM2.5:28
+实时空气质量 -- AQI:70 良好 PM2.5:30
 
 预警信息 -- 又是平静的一天
     
@@ -52,9 +52,9 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
-实时天气 -- 晴 -4摄氏度 静风0级
+实时天气 -- 晴 -4摄氏度 南风1级
 
-实时空气质量 -- AQI:135 轻度污染 PM2.5:72
+实时空气质量 -- AQI:135 轻度污染 PM2.5:76
 
 预警信息 -- 河南省气象台2018年02月09日12时45分发布大风蓝色预警：预计未来24小时，全省大部分地区有西北风4到5级，局部阵风6级或以上。请注意防范。
     
@@ -62,12 +62,12 @@
 
 今日温度 9度 到 4度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
-实时天气 -- 阴 5摄氏度 东南风 1级
+实时天气 -- 多云 5摄氏度 东南风 1级
 
-实时空气质量 -- AQI:64 良好 PM2.5:45
+实时空气质量 -- AQI:65 良好 PM2.5:46
 
 预警信息 -- 又是平静的一天
     
-2018-02-11 06:30
+2018-02-11 06:35
