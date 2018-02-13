@@ -33,14 +33,14 @@
 日k线
 
 ![000725day](http://image.sinajs.cn/newchart/daily/n/sz000725.gif)
-## 今日 2018年02月13日 天气
+## 今日 2018年02月14日 天气
 ### 中国 江苏 南京 南京
 
-今日温度 13度 到 3度
+今日温度 17度 到 3度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
-实时天气 -- 晴 4摄氏度 南风2级
+实时天气 -- 晴 4摄氏度 静风0级
 
 实时空气质量 -- AQI:68 良好 PM2.5:39
 
@@ -52,7 +52,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
-实时天气 -- 多云 9摄氏度 南风3级
+实时天气 -- 多云 9摄氏度 西南风2级
 
 实时空气质量 -- AQI:105 轻度污染 PM2.5:78
 
@@ -60,7 +60,7 @@
     
 ### 中国 四川 泸州 泸州
 
-今日温度 15度 到 7度
+今日温度 16度 到 7度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
@@ -70,4 +70,4 @@
 
 预警信息 -- 又是平静的一天
     
-2018-02-14 00:00
+2018-02-14 00:05
