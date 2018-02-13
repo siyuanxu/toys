@@ -38,9 +38,9 @@
 
 今日温度 13度 到 3度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/00.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
-实时天气 -- 晴 11摄氏度 南风2级
+实时天气 -- 晴 10摄氏度 东南风 2级
 
 实时空气质量 -- AQI:66 良好 PM2.5:28
 
@@ -50,11 +50,11 @@
 
 今日温度 15度 到 3度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/00.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
-实时天气 -- 晴 15摄氏度 西南风3级
+实时天气 -- 晴 14摄氏度 西南风3级
 
-实时空气质量 -- AQI:104 轻度污染 PM2.5:58
+实时空气质量 -- AQI:86 良好 PM2.5:50
 
 预警信息 -- 漯河市气象台2018年02月13日13时15分发布大风蓝色预警信号：预计今天下午到夜里，我市大部分地区有4-5级的西南风，阵风6-7级，请注意防范。
     
@@ -70,4 +70,4 @@
 
 预警信息 -- 又是平静的一天
     
-2018-02-13 18:30
+2018-02-13 18:35
