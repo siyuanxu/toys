@@ -36,11 +36,11 @@
 ## 今日 2018年02月14日 天气
 ### 中国 江苏 南京 南京
 
-今日温度 17度 到 4度
+今日温度 17度 到 5度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/day/01.png)
 
-实时天气 -- 多云 2摄氏度 东南风 1级
+实时天气 -- 多云 3摄氏度 东南风 1级
 
 实时空气质量 -- AQI:81 良好 PM2.5:59
 
@@ -48,7 +48,7 @@
     
 ### 中国 河南 漯河 漯河
 
-今日温度 15度 到 4度
+今日温度 15度 到 3度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
 
@@ -60,14 +60,14 @@
     
 ### 中国 四川 泸州 泸州
 
-今日温度 16度 到 9度
+今日温度 14度 到 9度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/00.png)
 
-实时天气 -- 晴 7摄氏度 东风1级
+实时天气 -- 晴 8摄氏度 东风1级
 
-实时空气质量 -- AQI:93 良好 PM2.5:69
+实时空气质量 -- AQI:105 轻度污染 PM2.5:78
 
 预警信息 -- 又是平静的一天
     
-2018-02-14 08:00
+2018-02-14 08:05
