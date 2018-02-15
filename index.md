@@ -36,11 +36,11 @@
 ## 今日 2018年02月15日 天气
 ### 中国 江苏 南京 南京
 
-今日温度 12度 到 4度
+今日温度 7度 到 4度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
 
-实时天气 -- 阴 6摄氏度 东风3级
+实时天气 -- 阴 5摄氏度 东北风3级
 
 实时空气质量 -- AQI:64 良好 PM2.5:32
 
@@ -48,7 +48,7 @@
     
 ### 中国 河南 漯河 漯河
 
-今日温度 10度 到 0度
+今日温度 7度 到 0度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
 
@@ -60,14 +60,14 @@
     
 ### 中国 四川 泸州 泸州
 
-今日温度 17度 到 8度
+今日温度 16度 到 7度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/00.png)
 
-实时天气 -- 晴 8摄氏度 南风2级
+实时天气 -- 晴 8摄氏度 南风1级
 
-实时空气质量 -- AQI:160 中度污染 PM2.5:121
+实时空气质量 -- AQI:154 中度污染 PM2.5:117
 
 预警信息 -- 又是平静的一天
     
-2018-02-15 08:00
+2018-02-15 08:05
