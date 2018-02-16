@@ -38,7 +38,7 @@
 
 今日温度 9度 到 2度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
 实时天气 -- 阴 6摄氏度 东南风 1级
 
@@ -50,9 +50,9 @@
 
 今日温度 14度 到 0度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/00.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
-实时天气 -- 晴 10摄氏度 东风1级
+实时天气 -- 晴 9摄氏度 东风1级
 
 实时空气质量 -- AQI:137 轻度污染 PM2.5:104
 
@@ -64,10 +64,10 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/day/00.png)
 
-实时天气 -- 晴 17摄氏度 东北风2级
+实时天气 -- 晴 16摄氏度 东北风2级
 
 实时空气质量 -- AQI:91 良好 PM2.5:67
 
 预警信息 -- 2018年2月16日06时20分四川省气象台发布第01号大雾黄色预警信号：预计今天早晨到上午，达州、广安、巴中、南充、遂宁、资阳、内江、自贡、宜宾、眉山、成都11市，绵阳、德阳、雅安3市东部，乐山、泸州2市北部及广元南部有大雾天气，部分地方能见度小于500米，局部地方小于200米。请公众注意大雾天气带来的不利影响。
     
-2018-02-16 18:30
+2018-02-16 18:35
