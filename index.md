@@ -33,10 +33,10 @@
 日k线
 
 ![000725day](http://image.sinajs.cn/newchart/daily/n/sz000725.gif)
-## 今日 2018年02月18日 天气
+## 今日 2018年02月19日 天气
 ### 中国 江苏 南京 南京
 
-今日温度 8度 到 4度
+今日温度 6度 到 3度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/301.png)
 
@@ -49,7 +49,7 @@
     
 ### 中国 河南 漯河 漯河
 
-今日温度 8度 到 5度
+今日温度 11度 到 1度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
@@ -65,10 +65,10 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
-实时天气 -- 阴 11摄氏度 南风2级
+实时天气 -- 阴 11摄氏度 东风2级
 
 实时空气质量 -- AQI:85 良好 PM2.5:62
 
 预警信息 -- 又是平静的一天
     
-2018-02-19 00:00
+2018-02-19 00:05
