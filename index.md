@@ -33,14 +33,14 @@
 日k线
 
 ![000725day](http://image.sinajs.cn/newchart/daily/n/sz000725.gif)
-## 今日 2018年02月20日 天气
+## 今日 2018年02月21日 天气
 ### 中国 江苏 南京 南京
 
 今日温度 7度 到 3度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/301.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
-实时天气 -- 雨 3摄氏度 东风2级
+实时天气 -- 阴 3摄氏度 东风2级
 
 实时空气质量 -- AQI:47 优质 PM2.5:32
 
@@ -49,11 +49,11 @@
     
 ### 中国 河南 漯河 漯河
 
-今日温度 7度 到 1度
+今日温度 8度 到 1度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/06.png)
 
-实时天气 -- 雨夹雪 2摄氏度 东北风3级
+实时天气 -- 雨夹雪 2摄氏度 北风2级
 
 实时空气质量 -- AQI:250 重度污染 PM2.5:199
 
@@ -61,14 +61,14 @@
     
 ### 中国 四川 泸州 泸州
 
-今日温度 16度 到 10度
+今日温度 13度 到 8度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
-实时天气 -- 多云 13摄氏度 东风1级
+实时天气 -- 多云 13摄氏度 东北风1级
 
 实时空气质量 -- AQI:77 良好 PM2.5:56
 
 预警信息 -- 又是平静的一天
     
-2018-02-21 00:00
+2018-02-21 00:05
