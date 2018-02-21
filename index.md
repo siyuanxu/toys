@@ -40,7 +40,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
 
-实时天气 -- 阴 3摄氏度 东北风1级
+实时天气 -- 阴 3摄氏度 北风1级
 
 实时空气质量 -- AQI:35 优质 PM2.5:24
 
@@ -51,9 +51,9 @@
 
 今日温度 7度 到 0度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/302.png)
 
-实时天气 -- 阴 0摄氏度 西北风2级
+实时天气 -- 雪 0摄氏度 西北风2级
 
 实时空气质量 -- AQI:191 中度污染 PM2.5:143
 
@@ -71,4 +71,4 @@
 
 预警信息 -- 又是平静的一天
     
-2018-02-21 09:00
+2018-02-21 09:05
