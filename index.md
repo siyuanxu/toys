@@ -40,7 +40,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
-实时天气 -- 多云 8摄氏度 西南风2级
+实时天气 -- 多云 8摄氏度 西南风1级
 
 实时空气质量 -- AQI:72 良好 PM2.5:52
 
@@ -50,9 +50,9 @@
 
 今日温度 14度 到 4度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/00.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
-实时天气 -- 晴 12摄氏度 西南风2级
+实时天气 -- 晴 11摄氏度 西南风2级
 
 实时空气质量 -- AQI:46 优质 PM2.5:25
 
@@ -64,10 +64,10 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
 
-实时天气 -- 阴 8摄氏度 东风2级
+实时天气 -- 阴 8摄氏度 东北风2级
 
 实时空气质量 -- AQI:33 优质 PM2.5:23
 
 预警信息 -- 又是平静的一天
     
-2018-02-22 19:00
+2018-02-22 19:05
