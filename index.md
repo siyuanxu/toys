@@ -52,7 +52,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
-实时天气 -- 晴 7摄氏度 南风1级
+实时天气 -- 晴 7摄氏度 南风2级
 
 实时空气质量 -- AQI:57 良好 PM2.5:38
 
@@ -64,10 +64,10 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
-实时天气 -- 阴 7摄氏度 东南风 1级
+实时天气 -- 阴 6摄氏度 东风2级
 
 实时空气质量 -- AQI:48 优质 PM2.5:33
 
 预警信息 -- 又是平静的一天
     
-2018-02-22 23:00
+2018-02-22 23:05
