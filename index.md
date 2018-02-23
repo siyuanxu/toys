@@ -62,12 +62,12 @@
 
 今日温度 17度 到 10度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/00.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
-实时天气 -- 晴 12摄氏度 西北风2级
+实时天气 -- 晴 12摄氏度 西北风3级
 
-实时空气质量 -- AQI:38 优质 PM2.5:24
+实时空气质量 -- AQI:42 优质 PM2.5:29
 
 预警信息 -- 又是平静的一天
     
-2018-02-23 19:30
+2018-02-23 19:35
