@@ -40,7 +40,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/day/00.png)
 
-实时天气 -- 晴 12摄氏度 南风3级
+实时天气 -- 晴 13摄氏度 南风3级
 
 实时空气质量 -- AQI:77 良好 PM2.5:56
 
@@ -50,9 +50,9 @@
 
 今日温度 17度 到 2度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/01.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/00.png)
 
-实时天气 -- 多云 14摄氏度 西南风2级
+实时天气 -- 晴 15摄氏度 西南风2级
 
 实时空气质量 -- AQI:88 良好 PM2.5:65
 
@@ -70,4 +70,4 @@
 
 预警信息 -- 又是平静的一天
     
-2018-02-23 12:25
+2018-02-23 12:30
