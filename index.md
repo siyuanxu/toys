@@ -38,11 +38,11 @@
 
 今日温度 12度 到 6度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
-实时天气 -- 阴 9摄氏度 东北风2级
+实时天气 -- 多云 8摄氏度 东风3级
 
-实时空气质量 -- AQI:67 良好 PM2.5:48
+实时空气质量 -- AQI:66 良好 PM2.5:47
 
 预警信息 -- 又是平静的一天
     
@@ -50,11 +50,11 @@
 
 今日温度 7度 到 -2度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
-实时天气 -- 阴 0摄氏度 西北风1级
+实时天气 -- 多云 0摄氏度 西北风1级
 
-实时空气质量 -- AQI:94 良好 PM2.5:42
+实时空气质量 -- AQI:89 良好 PM2.5:45
 
 预警信息 -- 河南省气象台2018年02月24日08时50分发布大风黄色预警信号：预计今天白天，安阳、鹤壁、濮阳、新乡、郑州、开封六地区的部分县市将有8级左右偏北风，局部阵风9到10级。请注意防范。
     
@@ -62,12 +62,12 @@
 
 今日温度 17度 到 10度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/301.png)
 
-实时天气 -- 阴 12摄氏度 东风2级
+实时天气 -- 雨 11摄氏度 东南风 2级
 
-实时空气质量 -- AQI:57 良好 PM2.5:36
+实时空气质量 -- AQI:60 良好 PM2.5:40
 
 预警信息 -- 又是平静的一天
     
-2018-02-24 23:30
+2018-02-24 23:35
