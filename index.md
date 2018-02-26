@@ -38,11 +38,11 @@
 
 今日温度 15度 到 5度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
-实时天气 -- 晴 8摄氏度 东风2级
+实时天气 -- 多云 8摄氏度 东南风 2级
 
-实时空气质量 -- AQI:57 良好 PM2.5:31
+实时空气质量 -- AQI:63 良好 PM2.5:44
 
 预警信息 -- 又是平静的一天
     
@@ -50,11 +50,11 @@
 
 今日温度 18度 到 7度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
-实时天气 -- 阴 8摄氏度 静风0级
+实时天气 -- 多云 8摄氏度 静风0级
 
-实时空气质量 -- AQI:172 中度污染 PM2.5:130
+实时空气质量 -- AQI:188 中度污染 PM2.5:141
 
 预警信息 -- 河南省气象台2018年02月26日13时00分发布大风蓝色预警：预计未来24小时，商丘、驻马店、信阳三地区和周口地区东部及永城、新蔡、固始部分地区有西南风4到5级，局部阵风6级或以上。请注意防范。
     
@@ -64,10 +64,10 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
-实时天气 -- 阴 13摄氏度 北风1级
+实时天气 -- 阴 13摄氏度 东南风 1级
 
-实时空气质量 -- AQI:99 良好 PM2.5:74
+实时空气质量 -- AQI:122 轻度污染 PM2.5:92
 
 预警信息 -- 又是平静的一天
     
-2018-02-26 23:30
+2018-02-26 23:35
