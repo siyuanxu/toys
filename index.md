@@ -38,36 +38,36 @@
 
 今日温度 14度 到 7度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/301.png)
 
-实时天气 -- 阴 9摄氏度 北风2级
+实时天气 -- 雨 9摄氏度 北风2级
 
-实时空气质量 -- AQI:43 优质 PM2.5:30
+实时空气质量 -- AQI:38 优质 PM2.5:26
 
 预警信息 -- 又是平静的一天
     
 ### 中国 河南 漯河 漯河
 
-今日温度 17度 到 4度
+今日温度 17度 到 5度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/00.png)
 
 实时天气 -- 晴 4摄氏度 西北风2级
 
-实时空气质量 -- AQI:228 重度污染 PM2.5:177
+实时空气质量 -- AQI:233 重度污染 PM2.5:182
 
 预警信息 -- 漯河市气象台2018年02月27日22时55分发布大雾黄色预警信号：预计未来12小时，我市大部分地区将出现能见度小于500米的雾，局地小于200米，请有关单位和人员做好防范准备。
     
 ### 中国 四川 泸州 泸州
 
-今日温度 23度 到 12度
+今日温度 23度 到 14度
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
 实时天气 -- 晴 9摄氏度 东风2级
 
-实时空气质量 -- AQI:99 良好 PM2.5:74
+实时空气质量 -- AQI:100 良好 PM2.5:75
 
 预警信息 -- 又是平静的一天
     
-2018-02-28 07:30
+2018-02-28 07:35
