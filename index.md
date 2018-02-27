@@ -38,9 +38,9 @@
 
 今日温度 14度 到 7度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/301.png)
 
-实时天气 -- 阴 10摄氏度 西北风3级
+实时天气 -- 雨 10摄氏度 西北风3级
 
 实时空气质量 -- AQI:43 优质 PM2.5:30
 
@@ -50,11 +50,11 @@
 
 今日温度 17度 到 4度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/18.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
-实时天气 -- 雾 4摄氏度 西北风3级
+实时天气 -- 晴 4摄氏度 西北风2级
 
-实时空气质量 -- AQI:230 重度污染 PM2.5:179
+实时空气质量 -- AQI:228 重度污染 PM2.5:177
 
 预警信息 -- 漯河市气象台2018年02月27日22时55分发布大雾黄色预警信号：预计未来12小时，我市大部分地区将出现能见度小于500米的雾，局地小于200米，请有关单位和人员做好防范准备。
     
@@ -64,10 +64,10 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
 
-实时天气 -- 晴 9摄氏度 东风1级
+实时天气 -- 晴 9摄氏度 东风2级
 
-实时空气质量 -- AQI:97 良好 PM2.5:72
+实时空气质量 -- AQI:99 良好 PM2.5:74
 
 预警信息 -- 又是平静的一天
     
-2018-02-28 06:30
+2018-02-28 06:35
