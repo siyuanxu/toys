@@ -40,7 +40,7 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/day/02.png)
 
-实时天气 -- 阴 10摄氏度 东风4级
+实时天气 -- 阴 11摄氏度 东风3级
 
 实时空气质量 -- AQI:117 轻度污染 PM2.5:88
 
@@ -50,9 +50,9 @@
 
 今日温度 9度 到 1度
 
-![rtwpic](http://app1.showapi.com/weather/icon/day/301.png)
+![rtwpic](http://app1.showapi.com/weather/icon/day/06.png)
 
-实时天气 -- 雨 3摄氏度 北风2级
+实时天气 -- 雨夹雪 3摄氏度 北风2级
 
 实时空气质量 -- AQI:130 轻度污染 PM2.5:98
 
@@ -64,10 +64,10 @@
 
 ![rtwpic](http://app1.showapi.com/weather/icon/day/01.png)
 
-实时天气 -- 多云 22摄氏度 西风2级
+实时天气 -- 多云 22摄氏度 西南风1级
 
 实时空气质量 -- AQI:72 良好 PM2.5:52
 
 预警信息 -- 又是平静的一天
     
-2018-03-01 15:30
+2018-03-01 15:35
