@@ -62,12 +62,12 @@
 
 今日温度 22度 到 14度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/00.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
-实时天气 -- 晴 14摄氏度 南风1级
+实时天气 -- 阴 14摄氏度 东南风 2级
 
-实时空气质量 -- AQI:120 轻度污染 PM2.5:90
+实时空气质量 -- AQI:114 轻度污染 PM2.5:85
 
 预警信息 -- 又是平静的一天
     
-2018-03-02 06:30
+2018-03-02 06:35
