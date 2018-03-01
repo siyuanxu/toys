@@ -38,11 +38,11 @@
 
 今日温度 12度 到 4度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
 
-实时天气 -- 阴 4摄氏度 东风3级
+实时天气 -- 多云 4摄氏度 东风4级
 
-实时空气质量 -- AQI:46 优质 PM2.5:29
+实时空气质量 -- AQI:43 优质 PM2.5:26
 
 预警信息 -- 又是平静的一天
     
@@ -50,11 +50,11 @@
 
 今日温度 12度 到 2度
 
-![rtwpic](http://app1.showapi.com/weather/icon/night/01.png)
+![rtwpic](http://app1.showapi.com/weather/icon/night/02.png)
 
-实时天气 -- 多云 0摄氏度 东南风 1级
+实时天气 -- 阴 0摄氏度 东南风 1级
 
-实时空气质量 -- AQI:57 良好 PM2.5:38
+实时空气质量 -- AQI:60 良好 PM2.5:42
 
 预警信息 -- 漯河市气象台2018年03月01日05时55分发布大风蓝色预警信号：预计今天白天我市大部分地区将受偏北大风影响，平均风力4-5级，阵风6-7级，请注意防范。
     
@@ -70,4 +70,4 @@
 
 预警信息 -- 又是平静的一天
     
-2018-03-02 06:25
+2018-03-02 06:30
