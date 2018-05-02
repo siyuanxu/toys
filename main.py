@@ -40,7 +40,7 @@ with codecs.open('finace_tmp.txt', 'r', 'utf-8') as ft:
 with codecs.open('index.md', 'w', 'utf-8') as index:
   
     xmr_info = xmr()
-    index.write(xmr_info.to_str)
+    index.write(xmr_info.str)
 
     index.write(ft_content)
 
