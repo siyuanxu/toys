@@ -4,6 +4,53 @@ import pandas as pd
 import json
 import yaml
 import time
+import numpy as np
+
+class xmr(object):
+    def __init__(self):
+        self.coinmarket_xmr = 'https://api.coinmarketcap.com/v1/ticker/monero/'
+        self.f2pool = 'http://api.f2pool.com/monero/48TNwPZCsZkChj7wLAYzkb8GSDuHRHvxF5TKcXg1jaREcyDbEnG5WwBPUdgskPr5MTKc5ZkuXe788Xw4jQtF4UdV3oRgrqf'
+        self.get_info()
+    
+    def xmr_price(self):
+        req = request.Request(self.coinmarket_xmr)
+        try:
+            response = request.urlopen(
+                req, timeout=10)
+        except Exception as e:
+            print(e)
+        result = json.loads(response.read().decode('utf-8'))
+        self.to_usd = result[0]['price_usd']
+#         print(self.to_usd)
+    
+    def minering(self):
+        req = request.Request(self.f2pool)
+        try:
+            response = request.urlopen(
+                req, timeout=10)
+        except Exception as e:
+            print(e)
+        result = json.loads(response.read().decode('utf-8'))   
+        self.xmr_24 = result['value_last_day']
+        self.xmr_all = result['value']
+        self.xmr_inpool = result['balance']
+
+    def to_str(self):
+        head = '|currency|mined in last 24 hours|all|in pool|\n'
+        values_xmr = np.array([self.xmr_24,self.xmr_all,self.xmr_inpool])
+        values_usd = values_xmr*float(self.to_usd)
+        values_xmr = [round(i,3)for i in values_xmr.tolist()]
+        values_usd = [round(i,3)for i in values_usd.tolist()]
+        
+        
+        xmr = '|XMR|{}|{}|{}|\n'.format(values_xmr[0],values_xmr[1],values_xmr[2])
+        usd = '|USD|{}|{}|{}|\n'.format(values_usd[0],values_usd[1],values_usd[2])
+        self.str = head+xmr+usd
+        
+    def get_info(self):
+        self.xmr_price()
+        self.minering()
+        self.to_str()
 
 
 class weather(object):
