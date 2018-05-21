@@ -1,6 +1,6 @@
 |currency|mined in last 24 hours|all|in pool|
 |XMR|0.006|0.149|0.047|
-|USD|1.159|29.895|9.331|
+|USD|1.157|29.807|9.307|
 
 ## 今日重仓股 
 
