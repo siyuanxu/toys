@@ -6,12 +6,20 @@ import yaml
 import time
 import numpy as np
 
+
 class xmr(object):
     def __init__(self):
+        self.usd_cny()
         self.coinmarket_xmr = 'https://api.coinmarketcap.com/v1/ticker/monero/'
         self.f2pool = 'http://api.f2pool.com/monero/48TNwPZCsZkChj7wLAYzkb8GSDuHRHvxF5TKcXg1jaREcyDbEnG5WwBPUdgskPr5MTKc5ZkuXe788Xw4jQtF4UdV3oRgrqf'
         self.get_info()
-    
+
+    def usd_cny(self):
+        fixer = 'http://data.fixer.io/api/latest?access_key=dbf220bdadf57b8ba97750df20e4d07b&format=1'
+        response = request.urlopen(fixer)
+        result = json.loads(response.read().decode('utf-8'))
+        self.usd_cny_ex = result['rates']['CNY'] / result['rates']['USD']
+
     def xmr_price(self):
         req = request.Request(self.coinmarket_xmr)
         try:
@@ -22,7 +30,7 @@ class xmr(object):
         result = json.loads(response.read().decode('utf-8'))
         self.to_usd = result[0]['price_usd']
 #         print(self.to_usd)
-    
+
     def minering(self):
         req = request.Request(self.f2pool)
         try:
@@ -30,23 +38,24 @@ class xmr(object):
                 req, timeout=10)
         except Exception as e:
             print(e)
-        result = json.loads(response.read().decode('utf-8'))   
+        result = json.loads(response.read().decode('utf-8'))
         self.xmr_24 = result['value_last_day']
         self.xmr_all = result['value']
         self.xmr_inpool = result['balance']
 
     def to_str(self):
-        head = '|currency|mined in last 24 hours|all|in pool|\n'
-        values_xmr = np.array([self.xmr_24,self.xmr_all,self.xmr_inpool])
-        values_usd = values_xmr*float(self.to_usd)
-        values_xmr = [round(i,3)for i in values_xmr.tolist()]
-        values_usd = [round(i,3)for i in values_usd.tolist()]
-        
-        
-        xmr = '|XMR|{}|{}|{}|\n'.format(values_xmr[0],values_xmr[1],values_xmr[2])
-        usd = '|USD|{}|{}|{}|\n'.format(values_usd[0],values_usd[1],values_usd[2])
-        self.str = head+xmr+usd
-        
+        head = '# XMR Minering\n|currency|mined in last 24 hours|all|in pool|\n|---|---|---|---|\n'
+        values_xmr = np.array([self.xmr_24, self.xmr_all, self.xmr_inpool])
+        values_cny = values_xmr * float(self.to_usd) * self.usd_cny_ex
+        values_xmr = [round(i, 3)for i in values_xmr.tolist()]
+        values_cny = [round(i, 3)for i in values_cny.tolist()]
+
+        xmr = '|XMR|{}|{}|{}|\n'.format(
+            values_xmr[0], values_xmr[1], values_xmr[2])
+        cny = '|CNY|{}|{}|{}|\n'.format(
+            values_cny[0], values_cny[1], values_cny[2])
+        self.str = head + xmr + cny + '今日美元对人民币 {}'.format(self.usd_cny_ex)
+
     def get_info(self):
         self.xmr_price()
         self.minering()
@@ -261,7 +270,7 @@ class stock_pool(object):
             stock_k_img_min = info.k_img_min
             line = '\n### {0} \n分时k线\n\n![{1}min]({2})\n\n日k线\n\n![{3}day]({4})'.format(
                 stock_name, stock, stock_k_img_min, stock, stock_k_img_day)
-            self.to_write += line+'\n'
+            self.to_write += line + '\n'
 
 
 if __name__ == '__main__':
