@@ -54,7 +54,7 @@ class xmr(object):
             values_xmr[0], values_xmr[1], values_xmr[2])
         cny = '|CNY|{}|{}|{}|\n'.format(
             values_cny[0], values_cny[1], values_cny[2])
-        self.str = head + xmr + cny + '\n今日美元对人民币 {}\t'.format(self.usd_cny_ex)+'今日xmr对人民币{}\n\n'.format(float(self.to_usd) * self.usd_cny_ex)
+        self.str = head + xmr + cny + '\n今日美元对人民币 {}\t'.format(round(self.usd_cny_ex,2))+'今日xmr对人民币{}\n\n'.format(round(float(self.to_usd) * self.usd_cny_ex,2))
 
     def get_info(self):
         self.xmr_price()
