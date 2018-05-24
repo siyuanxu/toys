@@ -44,7 +44,7 @@ class xmr(object):
         self.xmr_inpool = result['balance']
 
     def to_str(self):
-        head = '# XMR Minering\n\n|currency|mined in last 24 hours|all|in pool|\n|---|---|---|---|\n'
+        head = '## XMR Minering\n\n|currency|mined in last 24 hours|all|in pool|\n|---|---|---|---|\n'
         values_xmr = np.array([self.xmr_24, self.xmr_all, self.xmr_inpool])
         values_cny = values_xmr * float(self.to_usd) * self.usd_cny_ex
         values_xmr = [round(i, 3)for i in values_xmr.tolist()]
