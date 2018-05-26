@@ -66,15 +66,15 @@ with codecs.open('index.md', 'w', 'utf-8') as index:
     index.write(ft_content)
 
     # weather toy
-    weather_main = weather('南京', config)
-    weather_1 = weather_main.to_write
-    weather_2 = weather('漯河', config).to_write
-    weather_3 = weather('泸州', config).to_write
+#     weather_main = weather('南京', config)
+#     weather_1 = weather_main.to_write
+#     weather_2 = weather('漯河', config).to_write
+#     weather_3 = weather('泸州', config).to_write
 
-    index.write('## {0} 天气'.format(weather_main.date))
-    index.write(weather_1)
-    index.write(weather_2)
-    index.write(weather_3)  # use coding utf8
+#     index.write('## {0} 天气'.format(weather_main.date))
+#     index.write(weather_1)
+#     index.write(weather_2)
+#     index.write(weather_3)  # use coding utf8
 
     # time log
     index.write('\n')
