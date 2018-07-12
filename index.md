@@ -34,4 +34,4 @@
 
 ![000725day](http://image.sinajs.cn/newchart/daily/n/sz000725.gif)
 
-2018-07-13 06:25
+2018-07-13 06:30
