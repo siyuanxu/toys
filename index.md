@@ -35,4 +35,4 @@
 
 ![000725day](http://image.sinajs.cn/newchart/daily/n/sz000725.gif)
 
-2018-10-12 12:05
+2018-10-12 12:10
