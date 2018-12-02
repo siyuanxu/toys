@@ -43,4 +43,4 @@
 
 ![000725day](http://image.sinajs.cn/newchart/daily/n/sz000725.gif)
 
-2018-12-03 07:25
+2018-12-03 07:30
