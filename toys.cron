@@ -1,1 +1,1 @@
-*/5 * * * * cd /home/ubuntu/toys && bash data_update.sh >> /tmp/out.log 2>&1
+*/10 * * * * cd /home/ubuntu/toys && bash data_update.sh >> /tmp/out.log 2>&1
