@@ -43,4 +43,4 @@
 
 ![000725day](http://image.sinajs.cn/newchart/daily/n/sz000725.gif)
 
-2019-01-15 08:20
+2019-01-15 08:30
