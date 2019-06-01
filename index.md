@@ -43,4 +43,4 @@
 
 ![000725day](http://image.sinajs.cn/newchart/daily/n/sz000725.gif)
 
-2019-06-01 12:50
+2019-06-01 13:10
