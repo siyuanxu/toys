@@ -3,7 +3,7 @@
 |currency|mined in last 24 hours|all|in pool|
 |---|---|---|---|
 |XMR|0.0|1.081|0.007|
-|CNY|0.0|538.237|3.567|
+|CNY|0.0|538.234|3.567|
 
 今日美元对人民币 7.14	今日xmr对人民币498.06
 
@@ -43,4 +43,4 @@
 
 ![000725day](http://image.sinajs.cn/newchart/daily/n/sz000725.gif)
 
-2019-08-29 21:50
+2019-08-29 22:00
